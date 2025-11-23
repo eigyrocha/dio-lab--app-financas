@@ -72,3 +72,6 @@ Gerar um **plano de MVP** contendo:
 * Evitar jargões técnicos financeiros e de tecnologia.
 * Manter a experiência conversacional como foco principal.
 * Considerar Design Universal em todas as decisões de UX.
+* 
+### **# Protótipo Lovable**
+* https://my-chat-cents.lovable.app
