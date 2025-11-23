@@ -75,3 +75,41 @@ Gerar um **plano de MVP** contendo:
 * 
 ### **# Protótipo Lovable**
 * https://my-chat-cents.lovable.app
+* 
+### **# Protótipo Lovable**
+* https://my-chat-cents.lovable.app
+* 
+# PRD para lovable
+
+## Contexto
+Quero criar um aplicativo de Organização de Finanças Pessoais baseado em conversas, focado em simplificar decisões financeiras do dia a dia. O app deve ajudar o usuário a entender para onde o dinheiro está indo e oferecer orientações práticas a partir das suas próprias rotinas. Toda a experiência deve seguir princípios de Design Universal para garantir acessibilidade e boa usabilidade para o maior número possível de pessoas.
+
+## Problema
+Muitas pessoas conseguem registrar seus gastos, mas não conseguem interpretar suas finanças para tomar boas decisões. Os apps existentes mostram gráficos complexos, exigem leitura detalhada e não traduzem os dados em orientações simples. Há muita informação, mas pouca compreensão. O objetivo é criar um assistente que transforme dados financeiros em conversas claras, insights diretos e recomendações práticas, especialmente para quem não tem familiaridade com análise financeira.
+
+## Público-Alvo
+Jovens adultos e profissionais em início de carreira que desejam entender melhor seus hábitos de consumo, não têm experiência com planilhas ou conceitos de orçamento e preferem orientações diretas, práticas e adaptadas ao seu estilo de vida. Inclui também usuários que valorizam simplicidade, acessibilidade e clareza independente do nível de conhecimento financeiro.
+
+## Funcionalidades-Chave
+1. Registrar gastos via chat usando linguagem natural.
+2. Classificação automática das transações.
+3. Criar e acompanhar metas financeiras.
+4. Dicas personalizadas do "Agente Financeiro".
+5. Relatórios claros, objetivos e personalizáveis.
+6. Interface desenhada com base em Design Universal: tipografia legível, contraste adequado, navegação simples e baixo esforço cognitivo.
+7. Análise automática de padrões de comportamento financeiro.
+8. Modo de Aprendizado Financeiro com microlições enviadas pelo chat.
+
+## Entregável esperado da IA
+Gerar um plano de MVP contendo:
+- Telas essenciais e seus objetivos.
+- Fluxos simples baseados em Design Universal.
+- Recursos mínimos necessários.
+- Sugestões de validação com usuários de diferentes perfis.
+- Linguagem clara e acessível.
+
+## Instruções adicionais para o Lovable
+- Priorizar simplicidade, clareza e acessibilidade.
+- Evitar jargões técnicos.
+- Manter a experiência conversacional como foco central.
+- Considerar Design Universal em todas as decisões de UX.
